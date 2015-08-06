@@ -21,3 +21,13 @@ You can access your app at
 ```
 http://gnavi-msa-bl-index.<your_cf_domain>/api
 ```
+
+-------------
+Schedule & Progress of Training Steps
+-------------
+
+###Follow the TODOs at the following files.
+
+**/controllers/indexController.js**
++ Step4: Let us discuss tuning.
+
